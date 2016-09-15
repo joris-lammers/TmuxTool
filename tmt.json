@@ -1,0 +1,30 @@
+{
+  "SessionData" : 
+  [
+    { 
+      "Name": "source",
+      "Windows" : 
+      [
+        { 
+          "Name": "BigProject",
+          "Path": "$HOME/Sources"
+        },
+        { "Name": "SmallProject" }
+      ]
+    },
+    { 
+      "Name": "debug",
+      "Path": "$HOME/Projects",
+      "Windows" : 
+      [
+      ]
+    },
+    { 
+      "Name": "build",
+      "Path": "/tmp",
+      "Windows" : 
+      [
+      ]
+    }
+  ]
+}
